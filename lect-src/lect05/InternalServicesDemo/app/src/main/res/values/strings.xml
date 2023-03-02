@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Internal Services Demo</string>
+    <string name="internal_services_demo">Internal Services Demo</string>
+    <string name="audio_recorder">Audio Recorder</string>
+    <string name="camera">Camera</string>
+    <string name="sensor_recyclerview">Sensor RecyclerView</string>
+    <string name="video_recorder">Video Recorder</string>
+</resources>
