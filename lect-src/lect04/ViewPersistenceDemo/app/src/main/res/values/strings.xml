@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">View Persistence Demo</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+</resources>

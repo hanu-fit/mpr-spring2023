@@ -1,0 +1,23 @@
+# on class demo
+* 
+* resources
+
+1. new project 
+> life cycle
+
+2. new project
+> ImageView + Button
+> click = change image (src)
+
+3. > add another Image
+> click = 
+	> animate fading
+	> animate transition
+	> animate rotation
+	> animate scale
+
+4. > click = play audio
+
+5. new project
+> VideoView + MediaController without LinearLayout
+	> with LinearLayout
