@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MultiActivityDemo</string>
-    <string name="welcome_to_codee">Welcome to Codee!</string>
-    <string name="start">Start !</string>
-    <string name="next"><![CDATA[Next >]]></string>
-    <string name="name">Name</string>
-    <string name="your_awesome_name">Your awesome name?</string>
-    <string name="contact_codee">Contact Codee</string>
-</resources>
